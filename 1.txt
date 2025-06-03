@@ -1,0 +1,4 @@
+EngClamAVParse: 65535
+EngClamAVHeuristic: 65535
+
+文件检测参数配置
